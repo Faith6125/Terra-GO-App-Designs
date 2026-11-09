@@ -1,0 +1,7 @@
+{
+  "name": "Remix Terra Go School Driver App",
+  "description": "A mobile-first web application for school bus drivers to manage student check-ins, track trips, and handle alerts. Features include NFC/manual attendance, trip management, incident reporting, and guardian verification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

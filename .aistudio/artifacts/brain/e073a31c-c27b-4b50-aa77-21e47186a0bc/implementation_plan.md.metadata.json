@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan strictly focused on the Forgot Password workflow: adding a small 'Forgot password' link, presenting dual phone or email options, sending SMS OTP or email verification code, verifying the code, prompting for a new password, and enabling immediate login with the new password.",
+  "updatedAt":  "2026-09-29T14:02:46.332454375Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
